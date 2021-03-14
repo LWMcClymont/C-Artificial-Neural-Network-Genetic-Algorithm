@@ -1,0 +1,33 @@
+﻿  ArtificialNeuralNetwork.cpp
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\Matrix.h(20,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\Matrix.h(22,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(6,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(17,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(19,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(43,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(52,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(59,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(114,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(126,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(137,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(139,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(156,84): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(161,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(177,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(181,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(183,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(193,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(206,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(208,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\ArtificialNeuralNetwork.cpp(217,23): warning C4018: '<': signed/unsigned mismatch
+  Matrix.cpp
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\Matrix.h(20,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\Matrix.h(22,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\Matrix.cpp(7,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Artificial Neural Network\Matrix.cpp(11,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Artificial Neural Network.vcxproj -> C:\Users\LachlanMcClymont~PC\Desktop\temp\ANN assessment\Artificial Neural Network library\Debug\Artificial Neural Network.lib

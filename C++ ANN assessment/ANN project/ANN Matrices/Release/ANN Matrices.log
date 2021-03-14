@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\s171689\desktop\ann matrices #4\dependencies\release\Matrix.h(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\s171689\desktop\ann matrices #4\dependencies\release\Matrix.h(23): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(127): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(129): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 641 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ANN Matrices.vcxproj -> C:\Users\s171689\Desktop\ANN Matrices #4\Release\ANN Matrices.exe
